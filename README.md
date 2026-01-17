@@ -2,6 +2,8 @@
 
 ChatGenius is a Flask-based web application that enables users to upload PDF documents and scrape website content, then interact with that information through a chat interface. The application supports both **Basic (No-AI)** and **AI-powered** modes for flexible usage.
 
+---
+
 ✨ Key Features
 
 - 📄 Upload and extract text from PDF files
@@ -14,6 +16,8 @@ ChatGenius is a Flask-based web application that enables users to upload PDF doc
 - 🔄 Switch modes dynamically
 - 🗑 Clear uploaded content and chat history
 
+---
+
 🛠 Tech Stack
 
 - **Backend:** Python, Flask  
@@ -21,12 +25,16 @@ ChatGenius is a Flask-based web application that enables users to upload PDF doc
 - **Libraries:** PyPDF2, Requests, BeautifulSoup4, Pandas  
 - **AI Integration:** DeepSeek-V3.1 (optional)
 
+---
+
 📌 How It Works
 
 - Upload a PDF or enter a website URL
 - Content is extracted and summarized
 - Ask questions via chat
 - Switch between Basic and AI modes anytime
+
+---
 
 📘 What I Learned
 
@@ -38,6 +46,8 @@ ChatGenius is a Flask-based web application that enables users to upload PDF doc
 - Integrating AI APIs into a web application
 - Managing application state and user interactions
 - Structuring a project for real-world deployment
+
+---
 
 🚀 Future Enhancements
 
